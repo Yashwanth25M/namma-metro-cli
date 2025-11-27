@@ -6,7 +6,6 @@ Lightweight command-line **route estimator** for the Bangalore *Namma Metro* net
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Requests](https://img.shields.io/badge/Requests-API%20Calls-green)
 ![Colorama](https://img.shields.io/badge/Colorama-CLI%20Colors-yellow)
-![GeoJSON](https://img.shields.io/badge/Data-GeoJSON-blueviolet)
 ![Dijkstra](https://img.shields.io/badge/Algorithm-Dijkstra-red)
 
 
