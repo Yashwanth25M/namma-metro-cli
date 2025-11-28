@@ -11,12 +11,12 @@ It builds a graph from station metadata, computes fastest routes (Dijkstra), off
 
 ---
 
----
+
 
 ## Table of Contents
 
 1. Features  
-2. Demo / Example CLI Output  
+2. Example CLI Output  
 3. Installation  
 4. Configuration  
 5. Usage  
@@ -119,7 +119,7 @@ Example:
 
 Run:
 ```bash
-python namma_metro_cli.py
+python main.py
 ```
 
 Menu:
@@ -158,21 +158,3 @@ Extend JSON files to add more stations/lines.
 - Future: real schedules, GUI, API backend
 
 ---
-
-## Contributing
-
-PRs welcome. Keep changes focused and documented.
-
----
-
-## License
-
-MIT License.
-
----
-
-## Acknowledgements
-
-- Namma Metro  
-- colorama  
-- Python standard library  
