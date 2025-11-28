@@ -1,13 +1,10 @@
 # Namma Metro CLI
 
-Lightweight command-line **route estimator** for the Bangalore *Namma Metro* network.
-
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Requests](https://img.shields.io/badge/Requests-API%20Calls-green)
 ![Colorama](https://img.shields.io/badge/Colorama-CLI%20Colors-yellow)
 ![Dijkstra](https://img.shields.io/badge/Algorithm-Dijkstra-red)
-# Namma Metro CLI Route Planner
 
 A small **Python 3** command-line tool to plan fastest routes across Bengaluru’s **Namma Metro** network.  
 It builds a graph from station metadata, computes fastest routes (Dijkstra), offers interactive fuzzy station search, browsable lines, and human-friendly route summaries (distance, stops, interchanges, estimated travel time).
