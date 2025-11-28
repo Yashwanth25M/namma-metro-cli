@@ -11,9 +11,6 @@ It builds a graph from station metadata, computes fastest routes (Dijkstra), off
 
 ---
 
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](#)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](#)
-
 ---
 
 ## Table of Contents
