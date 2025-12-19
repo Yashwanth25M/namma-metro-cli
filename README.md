@@ -132,20 +132,11 @@ Choice:
 2. (Optional but recommended) Create a virtual environment:
 
    ```bash
-   python -m venv .venv
-   # Linux / macOS
-   source .venv/bin/activate
-   # Windows
-   .venv\Scriptsctivate
+    py -m venv venv
    ```
 
 3. **Install dependencies**:
 
-   ```bash
-   pip install colorama
-   ```
-
-   Or, if a `requirements.txt`:
 
    ```bash
    pip install -r requirements.txt
@@ -237,7 +228,7 @@ If a line is missing from this file, the script falls back to the order in `line
 Make sure `stations.json` (and optionally `line_sequences.json`) are present in the same folder as the script, then run:
 
 ```bash
-python main.py
+py main.py
 ```
 
 
