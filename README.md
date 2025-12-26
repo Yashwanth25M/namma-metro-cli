@@ -1,10 +1,11 @@
-# Namma Metro CLI Route Planner  
-**(Fully Updated for 2025 – includes latest Namma Metro station data structure support)**
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Colorama](https://img.shields.io/badge/CLI-Colorama-yellow)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Dijkstra-red)
 ![Updated](https://img.shields.io/badge/Data%20Status-Updated%20for%202025-brightgreen)
+# Namma Metro CLI Route Planner  
+**(Fully Updated for 2025 – includes latest Namma Metro station data structure support)**
+
+
 
 A **Python 3** command-line tool to plan the fastest routes across Bengaluru’s **Namma Metro** network.  
 This project is **fully updated for 2025**, supporting the current network structure, expandable station data,  
